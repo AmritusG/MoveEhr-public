@@ -1,0 +1,7 @@
+# LoadEhr generated test model (crystal)
+newmtl crystal
+Kd 0.62 0.38 1.0
+Ks 0.9 0.9 1.0
+Ns 300
+Pm 0.0
+Pr 0.08

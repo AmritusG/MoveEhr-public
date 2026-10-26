@@ -1,0 +1,7 @@
+# LoadEhr generated test model (star)
+newmtl star
+Kd 0.95 0.12 0.10
+Ks 0.6 0.6 0.6
+Ns 120
+Pm 0.2
+Pr 0.35

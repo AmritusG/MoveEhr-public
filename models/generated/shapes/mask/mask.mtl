@@ -1,0 +1,7 @@
+# LoadEhr generated test model (mask)
+newmtl mask
+Kd 0.92 0.88 0.80
+Ks 0.3 0.3 0.3
+Ns 60
+Pm 0.0
+Pr 0.45

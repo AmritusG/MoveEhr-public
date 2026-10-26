@@ -1,0 +1,6 @@
+ufbx 26a482a; cgltf 85cd623; stb 2c980bb; ffgl 5b6e078
+meshoptimizer 1.3 (MESHOPTIMIZER_VERSION 1030) 4c20343 — simplifier.cpp + allocator.cpp only, MIT
+nanosvg 239e102 (2026-07-09) — nanosvg.h only (parser; rasterizer unused), zlib licence
+clipper2 2.0.1 f9c5eb6 (2026-04-20, github.com/AngusJohnson/Clipper2) — CPP/Clipper2Lib include/ + clipper.engine.cpp + clipper.offset.cpp, Boost Software License 1.0
+earcut.hpp v3.2.4 92acda9 (2026-09-28, github.com/mapbox/earcut.hpp) — include/mapbox/earcut.hpp, ISC licence
+dxvkit 1.0.0 2f5256a (tag v1.0.0, 2026-10-08, github.com/AmritusG/dxvkit) — git submodule third_party/dxvkit, C99 core only (src/*.c, include/dxvkit.h), MIT licence (W3; W8: v1.0.0, Arena 7.28 rules)

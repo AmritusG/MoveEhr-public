@@ -1,0 +1,7 @@
+# LoadEhr generated test model (knot)
+newmtl knot
+Kd 1.0 0.62 0.18
+Ks 1.0 0.8 0.5
+Ns 400
+Pm 1.0
+Pr 0.25
